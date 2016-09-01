@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mm\AndroidStudioProjects\Course\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\mm\AndroidStudioProjects\Course\app\build\intermediates\pre-dexed\debug\classes-cfd1f553c620e1defade167451b39699fde9528b.jar" />
+    </item>
+    <item
+        jar="C:\Users\mm\AndroidStudioProjects\Course\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\mm\AndroidStudioProjects\Course\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-e8ebc0e900b1194caafba82718126d92eb8c2557.jar" />
+    </item>
+    <item
+        jar="C:\Users\mm\AndroidStudioProjects\Course\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="C:\Users\mm\AndroidStudioProjects\Course\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy-cf596410cfaee463c8eb7b714523b23fd34cc323.jar" />
+    </item>
+    <item
+        jar="C:\Users\mm\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\mm\AndroidStudioProjects\Course\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-5c7b9c1a4639e26f7754eb50d09d2ba144f8e2bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\mm\AndroidStudioProjects\Course\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\mm\AndroidStudioProjects\Course\app\build\intermediates\pre-dexed\debug\classes-860805706f94c519b833a6dad41d6bfed3e2fefb.jar" />
+    </item>
+
+</items>
