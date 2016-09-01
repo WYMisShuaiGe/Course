@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="学生课程表"
+        android:textSize="50dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#46ffa9"
+        android:layout_marginTop="20dp"/>
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:src="@drawable/a"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="20dp">
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:id="@+id/teacher"
+            android:text="按老师"
+            android:background="#b5b1ff2a"
+            android:textColor="#305"/>
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:id="@+id/course"
+            android:text="按课程"
+            android:background="#01ff1a"
+            android:textColor="#305"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:id="@+id/team"
+            android:text="按班级"
+            android:background="#f2c1ffea"
+            android:textColor="#305"/>
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:id="@+id/classroom"
+            android:text="按教室"
+            android:background="#b535ffb0"
+            android:textColor="#305"/>
+    </LinearLayout>
+
+</LinearLayout>
